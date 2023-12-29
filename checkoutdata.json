@@ -1,0 +1,9 @@
+[
+    { "subscription": "trial", "checkoutLink": "https://staging-mg.packtpub.com/checkout/subscription/packt-subscription-monthly-launch-offer?freeTrial" },
+    { "subscription": "monthly", "checkoutLink": "https://staging-mg.packtpub.com/checkout/subscription/packt-subscription-monthly-launch-offer" },
+    { "subscription": "annual", "checkoutLink": "https://staging-mg.packtpub.com/checkout/subscription/mapt-pro-annual" },
+    { "subscription": "18 month", "checkoutLink": "https://staging-mg.packtpub.com/checkout/subscription/pro-18-months" }
+    
+   
+    
+]    
